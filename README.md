@@ -7,7 +7,7 @@ This repository contains my hands-on labs, study notes, and technical progress a
 | :--- | :--- | :--- |
 | **CompTIA Security+** | CompTIA | 🕒 In Progress (Exam: May 2026) |
 | **Junior Cybersecurity Analyst** | Cisco | ✅ Completed |
-| **Bandit (OverTheWire)** | OverTheWire | 🚀 Level 15+ |
+| **Bandit (OverTheWire)** | OverTheWire | ✅ Completed |
 
 ---
 
