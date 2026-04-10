@@ -16,7 +16,7 @@ This repository contains my hands-on labs, study notes, and technical progress a
 ### 🐧 Linux & Command Line (OverTheWire)
 I am documenting my progress through the Bandit wargame to master the Linux CLI.
 * **Key skills:** `grep`, `find`, `ssh`, `cronjobs`, `permissions`.
-* [Click here to see my Bandit Write-ups](Bandit-Writeups.md) (Link para um ficheiro com as tuas notas)
+* [Click here to see my Bandit Write-ups](Bandit-Writeups.md)
 
 ### 🔬 Home Lab Setup
 Currently building a virtualized environment to analyze network traffic.
