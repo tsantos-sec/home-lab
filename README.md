@@ -26,8 +26,8 @@ Currently building a virtualized environment to analyze network traffic.
 ---
 
 ## 📬 Contact Me
-* **LinkedIn:** [https://www.linkedin.com/in/iamtiagosantos]
-* **Email:** [tiagosantos.fitness@gmail.com]
+* **LinkedIn:** https://www.linkedin.com/in/iamtiagosantos
+* **Email:** tiagosantos.fitness@gmail.com
 
 ---
 *“The more you sweat in training, the less you bleed in combat.”*
