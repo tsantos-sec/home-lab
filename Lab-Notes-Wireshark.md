@@ -11,3 +11,6 @@ Mapped the findings to MITRE ATT&CK (e.g., T1071 - Application Layer Protocol).
 
 Key Learning: Learned how to identify "beaconing" patterns (regular heartbeats) from infected hosts.
 
+!(wiresharkps1)
+
+!(wiresharkps2)
