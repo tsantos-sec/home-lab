@@ -5,7 +5,7 @@ This repository contains my hands-on labs, study notes, and technical progress a
 ## 📊 Certification Progress
 | Certification | Provider | Status |
 | :--- | :--- | :--- |
-| **THM SAL1** | TryHackMe | 🕒 In Progress (Exam: May 2026) |
+| **THM SAL1 Certification** | TryHackMe | 🕒 In Progress (Exam: May 2026) |
 | **Junior Cybersecurity Analyst** | Cisco | ✅ Completed |
 | **TryHackMe SOC L1 Analyst** | THM | ✅ Completed |
 | **Bandit (OverTheWire)** | OverTheWire | ✅ Completed |
